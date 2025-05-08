@@ -67,7 +67,7 @@ mysqlclient==2.2.4
 namex==0.0.8
 nest-asyncio==1.6.0
 numba==0.60.0
-numpy==2.2.1
+numpy==1.26.4
 oauthlib==3.2.2
 opt_einsum==3.4.0
 optree==0.13.1
