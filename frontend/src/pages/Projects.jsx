@@ -166,7 +166,6 @@ const Projects = () => {
               key={index}
               variants={itemVariants}
               whileHover="hover"
-              variants={cardVariants}
               className="bg-white rounded-xl overflow-hidden shadow-lg"
               style={{ borderBottom: `4px solid ${primary}` }}
             >
