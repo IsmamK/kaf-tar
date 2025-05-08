@@ -1,0 +1,26 @@
+{
+    "heading": "Trust the Numbers",
+    "subtitle": "This is a section of some simple filler text, also known as placeholder text. It shares some characteristics of a real written text but is random or otherwise generated.",
+    "bgColor": "#ffffff",
+    "textColor": "#000000",
+    "stats": [
+        {
+            "value": "200+",
+            "label": "Numbers"
+        },
+        {
+            "value": "500+",
+            "label": "Deliveries"
+        },
+        {
+            "value": "1000+",
+            "label": "Satisfied Customers"
+        },
+        {
+            "value": "100%",
+            "label": "Satisfaction"
+        }
+    ],
+    "numbersBgColor": "#e6eff0",
+    "numbersTextColor": "#000000"
+}

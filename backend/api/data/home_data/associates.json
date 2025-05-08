@@ -1,0 +1,31 @@
+{
+    "title": "Business Concerns And Associates",
+    "bgColor": "#cad2d3",
+    "textColor": "#000000",
+    "clients": [
+        {
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Samsung_Logo.svg/2560px-Samsung_Logo.svg.png",
+            "link": "https://www.samsung.com"
+        },
+        {
+            "logo": "https://i.pinimg.com/originals/77/cd/5a/77cd5aef056d75c2c9e17c581681ed0c.png",
+            "link": "https://www.example.com/client2"
+        },
+        {
+            "logo": "https://e7.pngegg.com/pngimages/144/206/png-clipart-unilever-pureit-pure-it-logo-icons-logos-emojis-product-logos.png",
+            "link": "https://www.example.com/client3"
+        },
+        {
+            "logo": "https://logos-world.net/wp-content/uploads/2020/11/Hewlett-Packard-Logo-2008-2014.png",
+            "link": "https://www.hp.com"
+        },
+        {
+            "logo": "https://i.pinimg.com/originals/6f/14/e1/6f14e17403cf65d3d5adeef024e85c1f.png",
+            "link": "https://www.example.com/client5"
+        },
+        {
+            "logo": "https://seeklogo.com/images/P/pran-logo-17F049097A-seeklogo.com.png",
+            "link": "https://www.example.com/client6"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "title": "Frequently Asked Questions",
+    "subtitle": "This is a section of some simple filler text, also known as placeholder text. It shares some characteristics of a real written text but is random or otherwise generated.",
+    "bgColor": "#e6eff0",
+    "textColor": "#000000",
+    "faqBgColor": "#f8fafc",
+    "faqTextColor": "#000000",
+    "faqs": [
+        {
+            "question": "What services do you offer?",
+            "answer": "We offer CHANGE"
+        },
+        {
+            "question": "How can I book a venue?",
+            "answer": "You can book a venue through our website by selecting your desired location, date, and filling out the booking form."
+        },
+        {
+            "question": "What is your cancellation policy?",
+            "answer": "We have a flexible cancellation policy. Please refer to our terms and conditions for specific details regarding cancellations and refunds."
+        },
+        {
+            "question": "Can I customize my event package?",
+            "answer": "Yes, we offer customizable event packages. You can discuss your requirements with our team during the booking process."
+        },
+        {
+            "question": "How can I contact customer support?",
+            "answer": "You can reach our customer support team via email, phone, or our website's contact form. We are here to assist you 24/7."
+        }
+    ]
+}

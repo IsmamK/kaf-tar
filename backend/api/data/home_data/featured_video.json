@@ -1,0 +1,17 @@
+{
+    "title": "Discover Our Dream",
+    "description": "Learn more about our company, values, and mission through this short video. We are committed to delivering innovative solutions and fostering strong relationships with our clients.",
+    "button1": {
+        "text": "Get started",
+        "link": "#"
+    },
+    "button2": {
+        "text": "Learn more",
+        "link": "#"
+    },
+    "videoSrc": "https://www.youtube.com/embed/vQzb34h7mtY?si=ydltZ46nuQGbLmmF",
+    "colors": {
+        "bgColor": "white",
+        "textColor": "black"
+    }
+}

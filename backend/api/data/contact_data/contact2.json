@@ -1,0 +1,12 @@
+{
+    "title": "Contact Us",
+    "subtitle": "Reach Out To Us",
+    "bgColor": "#ffffff",
+    "textColor": "#000000",
+    "phone": "470-601-1911",
+    "email": "Pagedone1234@gmail.com",
+    "imageUrl": "https://pagedone.io/asset/uploads/1696245837.png",
+    "addresses": [
+        "789 Oak Lane, Lakeside, TX 54321"
+    ]
+}

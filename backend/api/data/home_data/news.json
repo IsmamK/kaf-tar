@@ -1,0 +1,26 @@
+{
+    "title": "Our latest NEWS",
+    "subtitle": "Welcome to our blog section, where knowledge meets inspiration",
+    "bgColor": "#000000",
+    "textColor": "#ffffff",
+    "news": [
+        {
+            "image": "https://pagedone.io/asset/uploads/1696244059.png",
+            "title": "Clever ways to invest in product to organize your portfolio",
+            "description": "Discover smart investment strategies to streamline and organize your portfolio. Explore innovative approaches to optimize your...",
+            "action": "Join Us"
+        },
+        {
+            "image": "https://pagedone.io/asset/uploads/1696244074.png",
+            "title": "2 Clever ways to invest in product to organize your portfolio",
+            "description": "Discover smart investment strategies to streamline and organize your portfolio. Explore innovative approaches to optimize your...",
+            "action": "Engage"
+        },
+        {
+            "image": "https://pagedone.io/asset/uploads/1696244059.png",
+            "title": "3 Clever ways to invest in product to organize your portfolio",
+            "description": "Discover smart investment strategies to streamline and organize your portfolio. Explore innovative approaches to optimize your...",
+            "action": "Learn More"
+        }
+    ]
+}
